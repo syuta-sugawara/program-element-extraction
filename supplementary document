@@ -1,0 +1,13 @@
+提出物
+ポートフォリオ→portfolio.md
+課題ソースコード→portfolio.rb(rubyで作成しました)
+
+＝＝＝課題を動作させるための手順＝＝＝
+作業環境:rubyがインストールされているmac
+
+実行手順
+1,ディレクトリを作成し、portfolio.mdとportfolio.rbを配置
+２,以下のコマンドを実行
+ $ ruby portfolio.rb portfolio.md <大見出し> <中見出し> <小見出し>
+
+==============================
